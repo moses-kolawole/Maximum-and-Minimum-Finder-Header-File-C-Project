@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1768152764 source:c:\users\moses\documents\c documents and project\max_min_finder_header_project_on_11th_january_2026\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	"maxmin.h"
+
+1768152561 c:\users\moses\documents\c documents and project\max_min_finder_header_project_on_11th_january_2026\maxmin.h
+
+1768152764 source:c:\users\moses\documents\c documents and project\max_min_finder_header_project_on_11th_january_2026\maxmin.c
+	"maxmin.h"
+
