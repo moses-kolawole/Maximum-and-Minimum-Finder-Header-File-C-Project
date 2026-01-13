@@ -17,8 +17,8 @@ This is a simple array-based program written in C.
 
 ## Project Structure
 - main.c → handles user input, menu, and program loop [CLICK HERE FOR THE CODE](Source_Code/main.c)
-- maxmin.h → contains function declarations and macros [CLICK HERE FOR THE CODE](Header_File/maxmin.c)
-- maxmin.c → contains logic for finding minimum and maximum values [CLICK HERE FOR THE CODE](Source_code/maxmin.c)
+- maxmin.h → contains function declarations and macros [CLICK HERE FOR THE CODE](Header_File/maxmin.h)
+- maxmin.c → contains logic for finding minimum and maximum values [CLICK HERE FOR THE CODE](Source_Code/maxmin.c)
 
 ## Why Header Files
 I used header files so the minimum and maximum functions can be reused in other projects. 
